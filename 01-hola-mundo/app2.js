@@ -1,10 +1,10 @@
-function saludar ( nombre ) {
-    let mensaje = ` Hola ${ nombre}`; 
+function saludar(nombre) {
+    let mensaje = ` Hola ${ nombre}`;
 
-    return mensaje; 
+    return mensaje;
 }
 
-let saludo = saludar ('Ana'); 
+let saludo = saludar('Jorge');
 
 
 
